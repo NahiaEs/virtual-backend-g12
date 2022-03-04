@@ -1,0 +1,1 @@
+#Un error es una mala ejecucion del codigo que hara que mi proyecto o s

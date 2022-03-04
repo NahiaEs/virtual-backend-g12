@@ -38,3 +38,5 @@ mes, dia = "febrero", 28
 print (mes)
 
 #del mes 
+del mes
+print(mes)
